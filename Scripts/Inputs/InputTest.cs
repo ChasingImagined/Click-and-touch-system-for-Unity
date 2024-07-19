@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-[RequireComponent(typeof(Rigidbody2D))]
+
 public class InputTest : MonoBehaviour
 {
     EventBinding<E_OnClickStart> eb_OnClickStart;
